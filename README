@@ -1,0 +1,14 @@
+
+
+What appears on my TV screen is rather a personal thing, and I like it
+to be spelt properly.
+
+This is a fork of the standard Kodi English language, with some things
+updated to suit me better.  In particular:
+
+* "Movie" → "Film"
+* "TV Show" → "Box Set"
+* "Season" → "Series"
+
+Note that this doesn't fix the home screen, as skins like Confluence
+have their own internationalisation embedded into them.
