@@ -7199,7 +7199,7 @@ msgstr "Enter the box set name"
 
 msgctxt "#20358"
 msgid "Season %i"
-msgstr "Season %i"
+msgstr "Series %i"
 
 msgctxt "#20359"
 msgid "Episode"
@@ -7231,7 +7231,7 @@ msgstr "Episode plot"
 
 msgctxt "#20366"
 msgid "* All seasons"
-msgstr "* All seasons"
+msgstr "* All series"
 
 msgctxt "#20367"
 msgid "Hide watched"
@@ -7251,15 +7251,15 @@ msgstr "* Hidden to prevent spoilers *"
 
 msgctxt "#20371"
 msgid "Set season thumb"
-msgstr "Set season thumb"
+msgstr "Set series thumb"
 
 msgctxt "#20372"
 msgid "Season image"
-msgstr "Season image"
+msgstr "Series image"
 
 msgctxt "#20373"
 msgid "Season"
-msgstr "Season"
+msgstr "Series"
 
 msgctxt "#20374"
 msgid "Downloading movie information"
@@ -7399,7 +7399,7 @@ msgstr "Flatten"
 
 msgctxt "#20412"
 msgid "Flatten TV show seasons"
-msgstr "Flatten box set seasons"
+msgstr "Flatten box set series"
 
 msgctxt "#20413"
 msgid "Get fanart"
@@ -7435,7 +7435,7 @@ msgstr "Never"
 
 msgctxt "#20421"
 msgid "If only one season"
-msgstr "If only one season"
+msgstr "If only one series"
 
 msgctxt "#20422"
 msgid "Always"
@@ -9023,7 +9023,7 @@ msgstr "Configure the"
 
 msgctxt "#33054"
 msgid "Seasons"
-msgstr "Seasons"
+msgstr "Series"
 
 msgctxt "#33055"
 msgid "Use your"
@@ -10111,11 +10111,11 @@ msgstr "Box sets"
 
 msgctxt "#36904"
 msgid "season"
-msgstr "season"
+msgstr "series"
 
 msgctxt "#36905"
 msgid "seasons"
-msgstr "seasons"
+msgstr "series"
 
 msgctxt "#36906"
 msgid "episode"
